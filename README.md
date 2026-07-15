@@ -24,7 +24,7 @@ A modern and intuitive Android application built with **Jetpack Compose** and **
 
 | Semester Selection | Grade Entry | Summary View |
 |:---:|:---:|:---:|
-| ![Semester Select](https://via.placeholder.com/200x400?text=Semester+Select) | ![Grade Entry](https://via.placeholder.com/200x400?text=Grade+Entry) | ![Summary](https://via.placeholder.com/200x400?text=Summary) |
+| ![Semester Select](screenshots/select.png) | ![Grade Entry](screenshots/entry.png) | ![Summary](screenshots/summary.png) |
 
 ## 🚀 Getting Started
 
